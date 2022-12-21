@@ -1,12 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 ### Hi there 👋
-<span id="title"></span>
-<script>
-  let typed = new Typed('.element', {
-  strings: ['cryogon', 'Javascipt/TypeScipt Developer','Currently Creating a discord bot','Currently learning discord.js']
-});
-</script>
-
 <!--
 **cryogon/cryogon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
